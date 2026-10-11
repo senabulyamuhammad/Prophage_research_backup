@@ -1,0 +1,4 @@
+scaffold	id	begin	end	transposable	taxonomy
+NC_004431.1	NC_004431.1_prophage1	910449	944840	False	Myoviridae
+NC_004431.1	NC_004431.1_prophage2	1333159	1446614	True	Siphoviridae
+NC_004431.1	NC_004431.1_prophage3	3021385	3062958	False	Siphoviridae

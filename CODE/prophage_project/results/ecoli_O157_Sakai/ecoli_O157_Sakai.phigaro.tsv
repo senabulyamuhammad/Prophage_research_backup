@@ -1,0 +1,15 @@
+scaffold	id	begin	end	transposable	taxonomy
+NC_002695.2	NC_002695.2_prophage1	300072	312407	True	Unknown
+NC_002695.2	NC_002695.2_prophage2	892498	926654	False	Siphoviridae
+NC_002695.2	NC_002695.2_prophage3	1166119	1209961	False	Siphoviridae
+NC_002695.2	NC_002695.2_prophage4	1246181	1309389	False	Podoviridae
+NC_002695.2	NC_002695.2_prophage5	1540805	1586260	False	Siphoviridae
+NC_002695.2	NC_002695.2_prophage6	1598303	1656647	False	Siphoviridae
+NC_002695.2	NC_002695.2_prophage7	1763452	1803002	False	Siphoviridae
+NC_002695.2	NC_002695.2_prophage8	1923591	1970150	False	Siphoviridae
+NC_002695.2	NC_002695.2_prophage9	2159576	2249521	True	Siphoviridae
+NC_002695.2	NC_002695.2_prophage10	2599166	2614276	False	Myoviridae
+NC_002695.2	NC_002695.2_prophage11	2668709	2708082	False	Siphoviridae
+NC_002695.2	NC_002695.2_prophage12	2890952	2942561	False	Podoviridae
+NC_002695.2	NC_002695.2_prophage13	3480875	3490437	False	Podoviridae
+NC_002695.2	NC_002695.2_prophage14	5049410	5079595	False	Myoviridae

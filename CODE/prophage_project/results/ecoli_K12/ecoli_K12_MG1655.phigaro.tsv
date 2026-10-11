@@ -1,0 +1,6 @@
+scaffold	id	begin	end	transposable	taxonomy
+NC_000913.3	NC_000913.3_prophage1	564814	582582	True	Unknown
+NC_000913.3	NC_000913.3_prophage2	1198694	1214058	False	Myoviridae
+NC_000913.3	NC_000913.3_prophage3	1413983	1432985	False	Siphoviridae / Podoviridae
+NC_000913.3	NC_000913.3_prophage4	1634309	1645871	False	Siphoviridae / Podoviridae
+NC_000913.3	NC_000913.3_prophage5	2470802	2476177	False	Unknown

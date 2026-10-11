@@ -1,0 +1,5 @@
+genome	prophage_count	total_prophage_length_bp	NCBI_match_count	NCBI_match_genes	NCBI_matches_overlapping_prophages	ResFinder_match_count
+K-12 MG1655	5	69076	1	blaEC-19	0	0
+CFT073	3	189422	1	blaEC-19	0	0
+O157:H7 Sakai	14	579247	1	blaEC-15	0	0
+UTI89	6	234582	1	blaEC-19	0	0

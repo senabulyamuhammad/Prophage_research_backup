@@ -1,0 +1,7 @@
+scaffold	id	begin	end	transposable	taxonomy
+NC_007946.1	NC_007946.1_prophage1	909862	943075	False	Myoviridae
+NC_007946.1	NC_007946.1_prophage2	1239277	1284103	False	Siphoviridae
+NC_007946.1	NC_007946.1_prophage3	1393878	1434551	False	Siphoviridae
+NC_007946.1	NC_007946.1_prophage4	2604106	2637276	False	Podoviridae
+NC_007946.1	NC_007946.1_prophage5	2901498	2938764	False	Myoviridae
+NC_007946.1	NC_007946.1_prophage6	4985886	5031314	False	Siphoviridae

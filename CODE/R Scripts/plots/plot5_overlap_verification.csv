@@ -1,0 +1,5 @@
+"Genome","Gene","AMR_Start","AMR_End","Overlapping_Prophage_Count","Overlap_Detected"
+"K-12 MG1655","blaEC-19",4377811,4378944,0,"No"
+"CFT073","blaEC-19",4986532,4987665,0,"No"
+"O157:H7 Sakai","blaEC-19",5232218,5233351,0,"No"
+"UTI89","blaEC-15",4649610,4650743,0,"No"
