@@ -1,4 +1,4 @@
-# In Silico Characterization of Prophage Regions in *Escherichia coli Genomes : Exploring Their Potential Relevance to Antimicrobial Resistance
+# In Silico Characterization of Prophage Regions in Escherichia coli Genomes : Exploring Their Potential Relevance to Antimicrobial Resistance
 
 ## Overview and Objectives
 This project investigates predicted prophage regions in four publicly available Escherichia coli reference genomes and examines their genomic overlap with detected antimicrobial resistance (AMR)-associated sequences.
